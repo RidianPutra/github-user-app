@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GitHubUserApp</string>
+    <string name="repository">Repository</string>
+    <string name="at">\@</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="avatar">avatar</string>
+    <string name="search">search</string>
+    <string name="search_hint">search username</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="welcome">Welcome!\nPlease try to search some data!</string>
+    <string name="notfound">Data is not found!</string>
+    <string name="zero_followers">Zero Followers</string>
+    <string name="zero_following">Zero Following</string>
+    <string name="favorite">favorite</string>
+    <string name="favorite_users">Favorite Users</string>
+    <string name="detail_users">Detail Users</string>
+    <string name="favorite_notice">Favorite users is empty!</string>
+    <string name="setting">Switch Theme</string>
+    <string name="empty_data">empty data</string>
+    <string name="insert_text">Added to favorite list</string>
+    <string name="delete_text">Deleted from favorite list</string>
+</resources>
